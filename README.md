@@ -8,7 +8,7 @@ This project is a Python script designed to scrape news articles from USA Today.
 + Environment: Developed and tested on Google Colab.
 
 ## Requirements
-I have run and tested this script on Google Colab. You can use Google Colab or modify the script to use it in other environment. For running it on Google Colab, you will need a Google account to access Google Colab.
+I have executed and tested this script on Google Colab. You can either use Google Colab or modify the script to run it in other environments. To use it on Google Colab, you will need a Google account.
 + Python libraries, used in the script, include:
   + requests
   + BeautifulSoup (from bs4)
